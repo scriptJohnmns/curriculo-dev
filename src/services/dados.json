@@ -1,0 +1,22 @@
+{
+    "profile": {
+      "img": "https://via.placeholder.com/200x200",
+      "nome": "João Marcos",
+      "sobrenome": "Naves",
+      "cidade": "Nova Ponte",
+      "estado": "MG",
+      "contato": "(34) 99999-9999",
+      "email": "joaomnavess@gmail.com",
+      "biografia": "Estudante de Analise e Desenvolvimento de Sistemas pela Universidade de Uberaba (Uniube),\naficionado por Tecnologia e principalmente Linux e Segurança da Informação.\nPrincipal objetivo é aumentar conhecimento quanto a área escolhida para estudo,assim como diversificar as experiências profissionais, atuando em diferentes setores e funções.",
+      "experiencia": [
+        {
+          "id": 1,
+          "cargo": "Técnico de suporte em TI",
+          "empresa": "Prefeitura Municipal de Nova Ponte",
+          "periodo": "Junho 2019 - Atual",
+          "atividades": "Atualmente prestando serviços a 2 anos como Técnico de suporte em TI na Prefeitura Municipal de Nova Ponte, trabalhando principalmente com Windows Server/Ubuntu Server, manutenção de computadores e com o firewall PFsense."
+        }
+    ]
+}
+}
+        
